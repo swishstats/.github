@@ -1,10 +1,10 @@
-# Welcome to SwishStats 🏀
+# Welcome to Swish Stats 🏀
 
 Your go-to platform for real-time basketball statistics management, built for leagues that demand professional-grade performance tracking.
 
 ## 🚀 What We're Building
 
-SwishStats is a comprehensive basketball statistics platform that brings ESPN-level analytics to every league. Whether you're running a local rec league or managing multiple competitive divisions, we've got you covered with:
+Swish Stats is a comprehensive basketball statistics platform that brings ESPN-level analytics to every league. Whether you're running a local rec league or managing multiple competitive divisions, we've got you covered with:
 
 - **Real-time Game Tracking** - Live statistics broadcasting with WebSocket technology
 - **Advanced Analytics** - PER, True Shooting %, Usage Rate, and 20+ other metrics
@@ -91,7 +91,7 @@ We're always looking for talented developers who share our passion for sports an
 
 ## 📊 Project Status
 
-SwishStats is actively developed and used in production environments. We're constantly adding new features based on user feedback and league requirements.
+Swish Stats is actively developed and used in production environments. We're constantly adding new features based on user feedback and league requirements.
 
 ### Recent Highlights
 - WebSocket-based live game broadcasting
@@ -105,7 +105,7 @@ SwishStats is actively developed and used in production environments. We're cons
 - Video highlight integration
 - Referee management system
 
-## 🏆 Why SwishStats?
+## 🏆 Why Swish Stats?
 
 - **Built by basketball lovers** - We understand the game and what leagues need
 - **Production-tested** - Handling real games with real-time requirements
@@ -121,7 +121,7 @@ SwishStats is actively developed and used in production environments. We're cons
 ---
 
 <p align="center">
-  <img src="../../api/docs/images/logo.png" alt="SwishStats Logo" width="120">
+  <img src="../../api/docs/images/logo.png" alt="Swish Stats Logo" width="120">
   <br>
-  <strong>SwishStats - Where Statistics Meet the Game</strong>
+  <strong>Swish Stats - Where Statistics Meet the Game</strong>
 </p>
